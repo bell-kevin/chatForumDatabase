@@ -3,7 +3,11 @@ forum database
 
 if().sql
 
-![p](https://github.com/bell-kevin/forumDatabase/blob/main/if().PNG)
+![p](https://github.com/bell-kevin/chatForumDatabase/blob/main/pictures/if().PNG)
+
+fullText search:
+
+![p](https://github.com/bell-kevin/chatForumDatabase/blob/main/pictures/FULLtext.PNG)
 
 == We're Using GitHub Under Protest ==
 
