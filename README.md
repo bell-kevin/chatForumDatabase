@@ -1,5 +1,4 @@
-# forumDatabase
-forum database
+# chatForumDatabase
 
 if()
 
