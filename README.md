@@ -1,7 +1,7 @@
 # forumDatabase
 forum database
 
-if().sql
+if()
 
 ![p](https://github.com/bell-kevin/chatForumDatabase/blob/main/pictures/if().PNG)
 
